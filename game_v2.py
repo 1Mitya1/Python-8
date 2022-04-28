@@ -29,7 +29,7 @@ def random_predict(number: int = 1) -> int:
         elif number < Expected_number:
             limit_max = Expected_number
             Expected_number = (limit_min + limit_max) // 2
-        
+    print(number)    
     return count
 
 
