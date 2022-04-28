@@ -45,13 +45,14 @@
 
 
 ### Результаты:  
-....
+Рабочая программа угадывает число в среднем за 4 попытки [Игра угадай число](https://github.com/1Mitya1/Python-8/blob/main/game.ipynb)
+
 
 :arrow_up:[к оглавлению](https://github.com/1Mitya1/Python-8/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Задача выполненна.
 
 :arrow_up:[к оглавлению](https://github.com/1Mitya1/Python-8/blob/main/README.md#Оглавление)
 
